@@ -1,0 +1,45 @@
+_repo: The-World-s-Greatest-Books---Volume-02---Fiction_10643
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Mee, Arthur
+    birthdate: 1875
+    deathdate: 1943
+    gutenberg_agent_id: '4518'
+    url: http://www.gutenberg.org/2009/agents/4518
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Mee
+  - agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, J. A. (John Alexander)
+    - Hammerton, Sir John Alexander
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10643'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: 'George Borrow: Lavengro. Romany Rye -- M. E. Braddon: Lady Audley''s
+  secret -- Edward Bradley: Adventures of Mr. Verdant Green -- Charlotte Brontë: Jane
+  Eyre. Shirley. Villette -- Emily Brontë: Wuthering Heights -- Robert Buchanan: Shadow
+  of the sword -- John Bunyan: Holy war. Pilgrim''s progress -- Fanny Burney: Evelina
+  -- William Carleton: The black prophet -- Lewis Carroll: Alice''s adventures in
+  wonderland -- Cervantes: Don Quixote -- Adalbert von Chamisso: Peter Schlemihl,
+  the shadowless man -- François René de Chateaubriand: Atala -- Charles Victor Cherbuliez:
+  Samuel Brohl & Co. -- Wilkie Collins: No name. The woman in white -- Hugh Conway:
+  Called back -- Fenimore Cooper: Last of the Mohicans -- Mrs. Craik: John Halifax,
+  gentleman -- George Croly: Salathiel, or tarry thou till I come -- Richard Henry
+  Dana: Two years before the mast.'
+title: The World's Greatest Books — Volume 02 — Fiction
+url: http://www.gutenberg.org/ebooks/10643
